@@ -1,6 +1,6 @@
 # AC2-Padroes-ProjetoSoftware
 
-## Integrandes:
+## Integrantes:
 - Guilherme Barros de Melo Almeida
 - Luis Carlos Pastura Macedo
 
